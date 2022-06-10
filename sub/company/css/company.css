@@ -273,16 +273,16 @@ html, body {
     background-size: contain;
 }
 .ideol_iconArea ul li .icon1 {
-    background-image: url("../../../img/sub/company/icon/icon_!.svg");
+    background-image: url("../../../img/sub/company/icon/icon_1.png");
 }
 .ideol_iconArea ul li .icon2 {
-    background-image: url("../../../img/sub/company/icon/icon_2.svg");
+    background-image: url("../../../img/sub/company/icon/icon_2.png");
 }
 .ideol_iconArea ul li .icon3 {
-    background-image: url("../../../img/sub/company/icon/icon_3.svg");
+    background-image: url("../../../img/sub/company/icon/icon_3.png");
 }
 .ideol_iconArea ul li .icon4 {
-    background-image: url("../../../img/sub/company/icon/icon_4.svg");
+    background-image: url("../../../img/sub/company/icon/icon_4.png");
 }
 .ideol_iconArea ul li span {
     font-size: 2rem;
