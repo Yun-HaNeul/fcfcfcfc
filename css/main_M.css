@@ -69,6 +69,10 @@
 .m_content .slogan .outline {
     display: block;
 }
+.slogan_sub {
+    font-size: 5vw;
+    text-align: left;
+}
 .touchBox {
     align-self: flex-start;
 }
